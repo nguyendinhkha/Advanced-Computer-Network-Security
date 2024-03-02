@@ -1,4 +1,5 @@
-![image](https://github.com/nguyendinhkha/Advanced-Computer-Network-Security/assets/82517228/c089ed12-5488-4019-a580-5859df7c7f3a)![image](https://github.com/nguyendinhkha/Advanced-Computer-Network-Security/assets/82517228/2d7aaf67-e16b-4849-b527-4405410cebfa)
+![image](https://github.com/nguyendinhkha/Advanced-Computer-Network-Security/assets/82517228/1655b49d-1a42-49cc-85c3-9d41fdf69bd2)
+
 
 Arkime is an open-source solution that's scalable and offers the capability to capture and search packet data. Arkime enhances modern security infrastructure to enable storage and indexing, with network traffic in the standard PCAP format. The strength of Arkime lies in its ability to provide fast access, with a simple web interface used for browsing PCAPs, searching, and exporting files.
 
