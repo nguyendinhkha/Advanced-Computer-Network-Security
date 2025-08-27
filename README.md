@@ -67,13 +67,3 @@ When an Arkime is deployed, it starts capturing entire packets and also sends da
 ![image](https://github.com/nguyendinhkha/Advanced-Computer-Network-Security/assets/82517228/91aac867-3c2c-409f-8a21-025cd0f42991)
 
 A common attack scenario: Phishing with Attachments. A group of attackers attach office documents to an email and attempt to send it to a victim. These documents often contain macros, and while macros are a normal part of office documents, they are used to execute code. If the victim enables the content, it leads to the next stage (Additional Stages N). Powershell might be executed or used to download the next-stage payload, the malware runs and moves to the Infection stage. It's very common for HTTP to be used to request the executable file, and that executable file requests the payload to execute.
-
-# Demo
-1. Integrate Suricata (NG_IDS-IPS) to create alerts.
-Link Google Drive: https://drive.google.com/file/d/1pNgaJ26Y2X691AbWjBn-bCBoPEonh3J5/view?usp=sharing
-
-2. Analyzing anomalies on port 80
-Link Google Drive: https://drive.google.com/file/d/1Z1_3mQiNjYycz3gEilxIq6C7W2Hvm5y9/view?usp=sharing
-
-3. Analyzing email anomalies
-Link Google Drive: https://drive.google.com/file/d/1QJmlXXuwxbCv6jsHnggVOSAZAkHe7vTu/view?usp=sharing
